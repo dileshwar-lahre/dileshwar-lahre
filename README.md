@@ -1,6 +1,7 @@
 # Dileshwar Lahre
 
-💻 MERN Stack Developer | 🛡️ Cybersecurity Enthusiast | 🎯 OSCP Aspirant
+💻 MERN Stack Developer | 🛡️ Cyber
+security Enthusiast | 🎯 OSCP Aspirant
 
 - 🔧 Currently building secure, fullstack applications with React & Node.js  
 - 🧠 Learning offensive security & solving labs on TryHackMe + Hack The Box  
