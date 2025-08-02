@@ -84,16 +84,20 @@ From crafting dynamic UIs to hunting down bugs in production systems — I do bo
 
 ---
 
+---
+
 ## 🔗 Let’s Connect
 
 - 📧 Email: [dileshwarlahre806@gmail.com](mailto:dileshwarlahre806@gmail.com)
 - 🌍 Website: [portfolio-five-psi-26.vercel.app](https://portfolio-five-psi-26.vercel.app/)
-- 🧠 TryHackMe: Active daily practice
-- 🐞 Bugcrowd: Hunting in live programs
-- ⚔️ HTB: Red team journey started
+- 🧠 TryHackMe: [Error502](https://tryhackme.com/p/Error502) ![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=flat&logo=tryhackme&logoColor=white)
+- 🐞 Bugcrowd: [Error502](https://bugcrowd.com/h/Error502) ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-black?style=flat&logo=bugcrowd)
+- ⚔️ Hack The Box: [Error5o2](https://app.hackthebox.com/profile/581044) ![HTB](https://img.shields.io/badge/Hack_The_Box-111111?style=flat&logo=hackthebox)
+- 🧪 PortSwigger Docs: (Coming soon on GitHub!) ![Docs](https://img.shields.io/badge/PortSwigger_Docs-grey?style=flat&logo=bookstack&logoColor=white)
 - 🤝 Collab: Open to dev or security projects
 
 ---
 
 > _“Don’t just build. Break. And then build it better.”_ — **Dileshwar Lahre**
-> 
+
+---
