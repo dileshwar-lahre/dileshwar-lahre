@@ -10,15 +10,14 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Who Am I?
 
-Hi, I’m **Dileshwar**, a developer turned **ethical hacker**. I specialize in **building secure full-stack applications** and **breaking insecure ones**.
+I’m **Dileshwar**, a full-stack developer turned ethical hacker. I believe in **secure by design**.  
+From crafting dynamic UIs to hunting down bugs in production systems — I do both.
 
-- 🔐 Practicing **web app pentesting** with [TryHackMe](https://tryhackme.com/), [Hack The Box](https://www.hackthebox.com/), and [Bugcrowd](https://www.bugcrowd.com/)
-- 🛡️ Studying **OWASP Top 10**, **API Security**, **LLM Vulnerabilities** via **PortSwigger Labs**
-- 🧰 Building projects using the **MERN stack**
-- 🎓 Preparing for **OSCP certification** for deep hands-on exploitation
-- 🤝 Actively looking to collaborate on **bug bounty hunting** and **secure app dev**
+🔍 Focused on modern **web penetration testing**, **OWASP Top 10**, and real-world vulnerabilities.  
+⚙️ Learning from **TryHackMe**, **Hack The Box**, **Bugcrowd**, and **PortSwigger Labs**.  
+💡 I love experimenting with **API/LLM security**, bypasses, recon, and bug bounty techniques.
 
 ---
 
@@ -42,51 +41,59 @@ Hi, I’m **Dileshwar**, a developer turned **ethical hacker**. I specialize in 
 
 ---
 
-## 🔥 Active Learning Zones
+## 🧠 Currently Learning
 
-| Platform | Focus |
-|----------|--------|
-| [TryHackMe](https://tryhackme.com/) | OWASP, LFI/XSS/IDOR, Priv Esc |
-| [Bugcrowd](https://www.bugcrowd.com/) | Real-world Web App Testing |
-| [PortSwigger Labs](https://portswigger.net/web-security) | Core OWASP + LLM/API Security |
-| [Hack The Box](https://www.hackthebox.com/) | Web/OS Exploitation, Red Team |
+| Platform | What I'm Learning |
+|----------|-------------------|
+| 🧠 TryHackMe | OWASP, LFI/XSS/IDOR, Privilege Escalation |
+| 🐞 Bugcrowd | Live Web Bug Bounties |
+| 🧪 PortSwigger | API Security, LLM Attacks, Real Exploits |
+| ⚔️ Hack The Box | Red Team Practice, Web + OS Exploitation |
 
-🛠️ Learning topics: `XSS`, `SQLi`, `IDOR`, `SSRF`, `LFI`, `JWT Attack`, `Broken Auth`, `Prompt Injection`, `LLM Jailbreak`
+🧬 Areas of Focus: `XSS`, `SQLi`, `SSRF`, `IDOR`, `LFI`, `JWT`, `Broken Auth`, `Prompt Injection`, `LLM Jailbreak`
 
 ---
 
-## 📂 Projects Showcase
+## 📂 Featured Projects
 
 | Name | Tech | Description |
 |------|------|-------------|
 | [RealEstate](https://github.com/dileshwar-lahre/realestate) | MERN | Property listings with clean UI |
-| [Hostusite](https://github.com/dileshwar-lahre/hostusite) | React + Firebase | Host your static websites |
-| [Cyber-Security-Assessment](https://github.com/dileshwar-lahre/cyber-security-assessment) | Python | Recon + basic scripts |
-| [Portfolio](https://github.com/dileshwar-lahre/portfolio) | React | My personal website |
-| [MERN-by](https://github.com/dileshwar-lahre/mern-by) | MERN | Starter boilerplate |
+| [Hostusite](https://github.com/dileshwar-lahre/hostusite) | React + Firebase | Static hosting platform |
+| [Cyber-Security-Assessment](https://github.com/dileshwar-lahre/cyber-security-assessment) | Python | Recon tools & checklists |
+| [Portfolio](https://github.com/dileshwar-lahre/portfolio) | React | Personal website |
+| [MERN-by](https://github.com/dileshwar-lahre/mern-by) | MERN | Fullstack starter template |
 
-📁 More projects on [My GitHub Repos »](https://github.com/dileshwar-lahre?tab=repositories)
+📁 More on [My GitHub Repositories »](https://github.com/dileshwar-lahre?tab=repositories)
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dileshwar-lahre&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dileshwar-lahre&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileshwar-lahre&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dileshwar-lahre&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dileshwar-lahre&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileshwar-lahre&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Let’s Connect
 
-- 📧 **Email:** [dileshwarlahre806@gmail.com](mailto:dileshwarlahre806@gmail.com)  
-- 🌍 **Portfolio:** [portfolio-five-psi-26.vercel.app](https://portfolio-five-psi-26.vercel.app/)  
-- 🧠 **TryHackMe & HTB:** Active learner  
-- 🐞 **Bugcrowd:** Started hunting on public & private programs  
-- 🔗 DM me to collaborate on **Red Team labs, Bug Bounties, or Dev Projects**
+- 📧 Email: [dileshwarlahre806@gmail.com](mailto:dileshwarlahre806@gmail.com)
+- 🌍 Website: [portfolio-five-psi-26.vercel.app](https://portfolio-five-psi-26.vercel.app/)
+- 🧠 TryHackMe: Active daily practice
+- 🐞 Bugcrowd: Hunting in live programs
+- ⚔️ HTB: Red team journey started
+- 🤝 Collab: Open to dev or security projects
 
 ---
 
-> _"Hack the system, but ethically. Build apps, but securely."_ — **Dileshwar Lahre**
+> _“Don’t just build. Break. And then build it better.”_ — **Dileshwar Lahre**
+> 
